@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "460388862343",
+    "project_id": "crudgiuaki",
+    "storage_bucket": "crudgiuaki.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460388862343:android:6f0269c4c16095f85ceb22",
+        "android_client_info": {
+          "package_name": "com.example.crud_giuaki_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCAR6zsGY7PEv72GifMkGa_NlceqQ3y2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
